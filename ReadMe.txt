@@ -1,0 +1,4 @@
+功能不完善
+有bug
+需要建好captures
+需要在pictures/新建一个图片image0.jpg
